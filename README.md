@@ -3,14 +3,14 @@
       <h4> 💻Amante de Tecnologia, Games🎮 e Futebol⚽. 
       <br>🎓Bacharel em Sistemas de Informação, tendo iniciado carreira como desenvolvedor em 2020.  <br>
       👨‍💻Atuando como Analista, com foco em desenvolvimento e processos de implantação de sistemas<br>
-      💪Em busca de novos desafios no universo do desenvolvimento web, ansioso por uma oportunidade de embarcar nessa jornada!🧑🏻‍🚀🧑🏻‍🚀
+      🚀Em busca de novos desafios no universo do desenvolvimento web, ansioso por uma oportunidade de embarcar nessa jornada!
 </h4>
 <hr>
 <h3> Principais Metas 2021/2022:</h3><br>
 <li>Conseguir meu primeiro job profissional como Desenvolvedor Junior</li>
 <li>Empreender no ramo de tecnologia da informação</li>
 <li>Ajudar pessoas que, assim como eu, estão iniciando na carreira e precisam de apoio para evoluir.</li>
-<li>Realizar mais commits, investir cada vez mais em cursos </li><br>
+<li>Realizar mais commits, investir cada vez mais em cursos </li><br><hr>
 
 <h3>Stacks que venho aprimorando;</h3>
 
@@ -22,7 +22,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-  </div><br>
+  </div><hr><br>
 
 
 
