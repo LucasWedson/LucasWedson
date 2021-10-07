@@ -10,7 +10,7 @@
 <li>Conseguir meu primeiro job profissional como Desenvolvedor Junior</li>
 <li>Empreender no ramo de tecnologia da informação</li>
 <li>Ajudar pessoas que, assim como eu, estão iniciando na carreira e precisam de apoio para evoluir.</li>
-<li>Realizar mais commits, investir cada vez mais em cursos </li>
+<li>Realizar mais commits, investir cada vez mais em cursos </li><br>
 
 <strong>Stacks que venho aprimorando;</strong><br>
 
