@@ -12,7 +12,7 @@
 <li>Ajudar pessoas que, assim como eu, estão iniciando na carreira e precisam de apoio para evoluir.</li>
 <li>Realizar mais commits, investir cada vez mais em cursos </li><br>
 
-<strong>Stacks que venho aprimorando;</strong><br>
+<h3>Stacks que venho aprimorando;</h3>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -31,7 +31,7 @@
 
 
 
-<strong>Quer falar comigo, só chamar! Vamos falar de tecnologia e inovação!!</strong>
+<strong>Quer falar comigo? só chamar! Vamos falar de tecnologia e inovação!!</strong>
 
 [![Blog](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaswedson)
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaswedson)
