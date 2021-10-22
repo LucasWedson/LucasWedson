@@ -31,7 +31,7 @@ Stacks que venho aprimorando:
 ![Wedson's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaswedson&show_icons=true&theme=dracula)
 
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswedson)](https://github.com/anuraghazra/github-readme-stats) -->
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lucas Wedson)](https://github.com/anuraghazra/github-readme-stats)
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lucasedson)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
