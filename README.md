@@ -35,6 +35,7 @@ Stacks que venho aprimorando:
 
 
 
+
 <strong>Quer falar comigo? só chamar! Vamos falar de tecnologia e inovação!!</strong>
 
 [![Blog](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaswedson)
