@@ -1,5 +1,5 @@
 
-<h2>👋Bem Vindx!! Eu sou Lucas Wedson👊👊</h2><br>
+<h2>👋Olá tudo bem? Eu sou Lucas Wedson👊👊</h2><br>
       <h4> 💻Amante de Tecnologia, Games🎮 e Futebol⚽. 
       <br>🎓Bacharel em Sistemas de Informação, pós em Dev. Mobile. Tendo iniciado carreira como desenvolvedor em 2020.  <br>
       👨‍💻Atuando como Analista, com foco em desenvolvimento e processos de implantação de sistemas<br>
@@ -31,7 +31,8 @@ Stacks que venho aprimorando:
 ![Wedson's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaswedson&show_icons=true&theme=dracula)
 
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswedson)](https://github.com/anuraghazra/github-readme-stats) -->
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucasWedson)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswedson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
