@@ -28,10 +28,6 @@ Stacks que venho aprimorando:
 
 
 
-![Wedson's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaswedson&show_icons=true&theme=dracula)
-
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswedson)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswedson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
