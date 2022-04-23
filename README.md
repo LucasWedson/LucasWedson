@@ -3,7 +3,7 @@
       <h4> 💻Amante de Tecnologia, Games🎮 e Futebol⚽. 
       <br>🎓Bacharel em Sistemas de Informação, pós em Dev. Mobile. Tendo iniciado carreira como desenvolvedor em 2020.  <br>
       👨‍💻Atuando como Analista, com foco em desenvolvimento e processos de implantação de sistemas<br>
-      🚀Em busca de novos desafios no universo do desenvolvimento web, ansioso por uma oportunidade de embarcar nessa jornada!
+      🚀Em busca de novos desafios no universo do desenvolvimento web! Vamos juntos nessa!!
 </h4>
 <hr>
 <h3> Principais Metas 2021/2022:</h3><br>
