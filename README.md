@@ -7,8 +7,8 @@
       
 </h4>
 <hr>
-<h3> Principais Metas 2021/2022:</h3><br>
-<li>Conseguir meu primeiro job profissional como Desenvolvedor Junior</li>
+<h3> Principais Metas 2022:</h3><br>
+<li>Conseguir meu primeiro job profissional como Desenvolvedor</li>
 <li>Quebrar menos códigos kkk</li>
 <li>Ajudar pessoas que, assim como eu, estão iniciando na carreira e precisam de apoio para evoluir.</li>
 <li>Realizar mais commits, investir cada vez mais em cursos </li><br><hr>
