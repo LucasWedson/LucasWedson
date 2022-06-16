@@ -1,8 +1,8 @@
 
 <h2>👋Olá tudo bem? Eu sou Lucas!👊👊</h2><br>
-      <h4> 💻Amante de Tecnologia, Games🎮 e Futebol⚽. 
+      <h4> 
       <br>🎓Bacharel em Sistemas de Informação, pós em Dev. Mobile. Tendo iniciado carreira como desenvolvedor em 2020.  <br>
-      👨‍💻Atuando como Analista, com foco em desenvolvimento e processos de implantação de sistemas<br>
+      👨‍💻Atuando como Analista de Desenvolvimento, com foco em processos de implantação de sistemas<br>
       🚀Em busca de novos desafios no universo do desenvolvimento web! Vamos juntos nessa!!
       
 </h4>
