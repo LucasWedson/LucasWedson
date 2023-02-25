@@ -5,13 +5,7 @@
       👨‍💻Atuando como Analista de Desenvolvimento, com foco em processos de implantação de sistemas<br>
       🚀Em busca de novos desafios no universo do desenvolvimento web! Vamos juntos nessa!!
       
-</h4>
-<hr>
-<h3> Principais Metas 2022:</h3><br>
-<li>Conseguir meu primeiro job profissional como Desenvolvedor</li>
-<li>Quebrar menos códigos kkk</li>
-<li>Ajudar pessoas que, assim como eu, estão iniciando na carreira e precisam de apoio para evoluir.</li>
-<li>Realizar mais commits, investir cada vez mais em cursos </li><br><hr>
+
 
 Stacks que venho aprimorando:
 
