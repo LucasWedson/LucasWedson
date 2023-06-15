@@ -1,6 +1,6 @@
 
 
-      🎓Graduado em Sistemas de Informação, pós em Gestão de Projetos e Desenvolvimento Mobile. Tendo iniciado carreira como desenvolvedor em 2020.
+      🎓Graduado em Sistemas de Informação, pós em Gestão de Projetos e Desenvolvimento Mobile.
       👨‍💻Atuando como Analista de Desenvolvimento, com foco em processos de implantação de sistemas
       🚀Em busca de novos desafios no universo do desenvolvimento ! Vamos juntos nessa!!
       
